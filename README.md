@@ -1,0 +1,1 @@
+The optimizer selected is Adam, and the initial learning rate is 1e-4. The program execution environment is Tensorflow 2.11.0, python 3.7.16, and the graphics cards used are NVIDIA GeForce GTX 1080 Ti and NVIDIA GeForce RTX 3090. Input video size: 256×256
