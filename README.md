@@ -80,3 +80,18 @@ Calculating model performance  -python compute.py
 
 
 The optimizer selected is Adam, and the initial learning rate is 1e-4. The program execution environment is Tensorflow 2.11.0, python 3.7.16, and the graphics cards used are NVIDIA GeForce GTX 1080 Ti and NVIDIA GeForce RTX 3090. Input video size: 256×256
+
+
+
+## Citation
+If you use this code for your research, please cite our paper :
+
+```
+@inproceedings{chan2024single,
+  title={ Single-Image Reflection Removal via Knowledge
+ Distillation Network with Deep Feature Extraction
+ and Reflection-Refraction Estimation},
+  author={Chan, U-In and Liu, Tsung-Jung},
+  year={2024}
+}
+```
