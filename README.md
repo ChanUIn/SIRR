@@ -1,3 +1,26 @@
+
+
+
+
+
+# Environment
+
+Pillow==9.5.0
+python-version==0.0.2
+scikit-image==0.19.3
+tensorflow==2.11.0
+
+Please run the following line to install enviroment
+```python
+
+pip install -r requirements.txt
+
+```
+
+# How to try
+
+
+
 ## dataset 
 We use the synthetic method from [Zheng et. al] (https://github.com/q-zh/absorption)
 
