@@ -87,7 +87,7 @@ The optimizer selected is Adam, and the initial learning rate is 1e-4. The progr
 If you use this code for your research, please cite our paper :
 
 ```
-@inproceedings{chan2024single,
+@inproceedings{chan2025single,
   title={ Single-Image Reflection Removal via Knowledge
  Distillation Network with Deep Feature Extraction
  and Reflection-Refraction Estimation},
